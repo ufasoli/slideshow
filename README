@@ -1,4 +1,4 @@
-This is your new Play application
+Simple slideshow application
 =================================
 
-This file will be packaged with your application, when using `activator dist`.
+Simple slideshow application using the Reveal.js framework (dev version) to display slides as iframe backgrounds
